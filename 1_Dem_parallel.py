@@ -1,3 +1,4 @@
+# Afshin.Ghahramani@des.qld.gov.au
 """
 This script automates the workflow of unzipping LAS files, generating individual DEMs using PDAL,
 and merging them into a single GeoTIFF. Intermediate files are efficiently cleaned up after processing,
