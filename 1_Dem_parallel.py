@@ -7,7 +7,7 @@ and parallel computing is employed for faster unzipping and DEM creation.
 
 # Afshin.Ghahramani@des.qld.gov.au
 #PDAL is used in the generate_dem_with_pdal(las_file) function.
-#GDAL is utilized indirectly through PDAL's "writers.gdal" stage and the rasterio library.
+#GDAL is utilised indirectly through PDAL's "writers.gdal" stage and the rasterio library.
 
 # Import necessary libraries
 import os
